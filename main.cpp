@@ -1,3 +1,5 @@
+
+
 #include <iostream>
 
 #include <boost/multiprecision/cpp_int.hpp>
@@ -191,6 +193,10 @@ void PrimosNB()
     {
         s=5;
     }
+    else
+    {
+        exit(1);
+    }
     cout<<"------PRIMOS N DIGITOS-----"<<endl;
     
     for(int i=0;i<10;i++)
@@ -201,4 +207,5 @@ void PrimosNB()
     
     Menu();
 }
+
 

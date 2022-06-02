@@ -144,7 +144,7 @@ El proyecto está concentrado en el main.cpp el cual se puede descargar o copiar
  <br />
 
  **Descarga:**
- [main.cpp.zip](https://github.com/LuciaDF/Generador-de-Primos/files/8793650/main.cpp.zip)
+[main.cpp.zip](https://github.com/LuciaDF/Generador-de-Primos/files/8826457/main.cpp.zip)
  <br />
  <br />
 ## 7.- Instalación Extra:
