@@ -151,9 +151,10 @@ El proyecto está concentrado en el main.cpp el cual se puede descargar o copiar
 
  <br />
 
- ### MacOs:
+Para poder usar  int128_t deberá descargar la libreria Boost:
+
+ ### En MacOs:
  
-Para poder usar  int128_t deberá descargar:
 
   **1.** package management system **Brew**:
 
@@ -162,7 +163,7 @@ Para poder usar  int128_t deberá descargar:
 
         https://phoenixnap.com/kb/install-homebrew-on-mac
 
- **2.** Después descargar **Boost** library::
+ **2.** Después descargar **Boost** library:
 
   * Enlace con pasos:
 
@@ -171,14 +172,25 @@ Para poder usar  int128_t deberá descargar:
         
  <br />
 
-  ### Windows:
+  ### En Windows:
 
-  
+  **1.** Descargar libreria Boost.
 
-  
+      https://www.boost.org/users/history/version_1_79_0.html
+
+
  <br />
   <br />
   
+      
+**2.** Seguir las instrucciones del siguiente video para instalar libreria en projecto:
+
+      https://youtu.be/CH_YZ2bePPM
+  
+ <br />
+  <br />
+   <br />
+   
 ## 8.- Como usarlo:
 
 Al compilarlo se visualizará un **Menú** el cual al elegir su respectivo número se podrá desplegar el resultado.
