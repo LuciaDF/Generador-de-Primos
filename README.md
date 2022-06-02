@@ -86,7 +86,7 @@ Acerca del grado de confianza se basó en el punto 4.48 [1] donde se aprecian co
 
 <br />
 
-En el caso de 16 bits aumentaré más 1 por decisión propia.
+En el caso de 16 bits se aumentará más 1 por decisión propia.
 
 
 
